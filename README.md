@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya, and I'm an enthusiastic front-end developer. I want to become a full-stack developer, and I'm currently learning Redux, Mongodbb,Express.<br><br>My potfolio link : https://aditya-fawn.vercel.app/</h2>
+<h2 align="left">Hi 👋! My name is Aditya, and I'm an enthusiastic front-end developer. I want to become a full-stack developer, and I'm currently learning Redux, Mongodb,Express.<br><br>My potfolio link : https://aditya-fawn.vercel.app/</h2>
 
 ###
 
